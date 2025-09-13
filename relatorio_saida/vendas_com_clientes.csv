@@ -1,0 +1,6 @@
+id_venda,id_cliente,data_venda,valor_venda,ano_mes,nome,cidade,estado
+1,1,2025-08-01,1200.5,2025-08,Ana Silva,São Paulo,SP
+2,2,2025-08-02,850.0,2025-08,João Souza,Rio de Janeiro,RJ
+3,1,2025-08-05,430.75,2025-08,Ana Silva,São Paulo,SP
+4,3,2025-08-06,2100.0,2025-08,Mariana Lima,Belo Horizonte,MG
+5,4,2025-08-07,980.0,2025-08,Carlos Pereira,Curitiba,PR
